@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(AppbarLess());
 
+//1주차
 // 기본 화면 만들기
 class MyApp extends StatelessWidget {
   @override
