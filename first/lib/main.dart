@@ -3,7 +3,8 @@
 
 import 'package:flutter/material.dart';
 
-void main() => runApp(AppbarLess());
+void main() => runApp(MyApp());
+// MyApp, AppbarLess runApp함수에 넣기
 
 //1주차
 // 기본 화면 만들기
