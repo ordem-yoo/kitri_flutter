@@ -44,6 +44,9 @@ class MyApp extends StatelessWidget {
             Container(
               height: 50,
             ),
+            //
+            // 2번 챌린지
+            //
             Center(
               child: Container(
                 width: 100,
@@ -77,6 +80,9 @@ class MyApp extends StatelessWidget {
             Container(
               height: 50,
             ),
+            //
+            // 3번 챌린지
+            //
             Stack(
               alignment: Alignment.center,
               children: [
